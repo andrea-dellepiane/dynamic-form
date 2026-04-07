@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DynamicFormConsole/DynamicFormConsole.csproj" />
+  <Project Path="DynamicFormLibrary/DynamicFormLibrary.csproj" />
+</Solution>
